@@ -1,0 +1,136 @@
+section{
+    background: rgb(131,58,180);
+background: linear-gradient(86deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); 
+}
+
+
+
+
+/* :root{
+    --micolorAzul:red;
+    --micolorRojo:blue;
+    --tamanioLetra:20px
+}
+
+C92C6D
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: var(--micolorRojo);
+}
+p{
+    background-color:var(--micolorAzul) ;
+}
+li{
+    background-color: var(--micolorAzul);
+}
+table{
+    background-color: var(--micolorAzul);
+}
+form{
+    background-color: var(--micolorAzul);
+} */
+
+/* section > h1{
+    background-color: red;
+}
+section > p{
+    background-color: blue;
+}
+h1{
+    background-color: aquamarine;
+} */
+
+/* body ol{
+    background-color: blueviolet;
+} */
+
+/* li:first-child{
+    color: red;
+}
+
+li:last-child{
+ color: green;
+} */
+/* li:nth-child(odd){
+    color:red
+} */
+
+/* p:nth-child(even){
+    color: aqua;
+} */
+
+/* p::before{
+    content: 'hola buenos dias';
+    color: red;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p::after{
+    content: 'termino el texto';
+    background-color: aquamarine;
+    font-size: 20px;
+} */
+
+
+
+
+
+
+
+/* 
+h1{
+    color: red;
+    font-size: 90px;
+}
+
+.micolor{
+    color: blue;
+    font-size: 60px;
+}
+
+.fondocolor{
+    background-color: aqua;
+} */
+
+
+/* ul{
+    list-style-type:square;
+    background-color: aquamarine;
+   
+}
+
+ol{
+    list-style-type:none ;
+}
+
+li{
+    background-color: red;
+} */
+
+/* table,tr,td,th{
+    border: 1px solid;
+    border-collapse: collapse;
+} */
+
+/* tr:nth-last-child(2){
+    background-color: red;
+} */
+
+ /*label{
+   
+}
+input{
+    color: red;
+   
+} */
+
+
+/* .labelRojo{
+    color: red;
+} */
